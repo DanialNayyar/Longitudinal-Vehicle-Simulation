@@ -25,3 +25,6 @@ Python (NumPy, Matplotlib)
 
 ## Report
 A small technical report covering the study including the modelling, assumptions and results is in the repository.
+
+## Notebook
+The Colab notebook was used for the final simulation as well exploratory and investigative work during model development. Some cells may contain intermediate calculations, plots, checks and debugging/validation steps for model verification.  
